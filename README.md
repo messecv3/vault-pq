@@ -1,5 +1,11 @@
 # Vault
 
+<p align="center">
+  <a href="https://t.me/CrypterCC"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
+  <a href="http://t.me/+cqqW4Z9PcP9kODE0"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat"></a>
+  <a href="https://t.me/CCVouchesReviews"><img src="https://img.shields.io/badge/Reviews_%26_Vouches-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Reviews & Vouches"></a>
+</p>
+
 Post-quantum hybrid file encryption toolkit built in Rust.
 
 Vault combines classical and post-quantum cryptography into a single tool — X25519 + ML-KEM-768 key exchange, XChaCha20-Poly1305 / AES-256-GCM authenticated encryption, Argon2id key derivation, Ed25519 signatures, and BLAKE3 hashing. Every cryptographic primitive is verified on startup via FIPS-style known-answer self-tests.
